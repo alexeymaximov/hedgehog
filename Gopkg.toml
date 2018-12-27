@@ -1,7 +1,7 @@
 [[constraint]]
-  branch = "master"
   name = "github.com/alexeymaximov/stateholder"
+  version = "0.1.2"
 
 [[constraint]]
-  branch = "master"
   name = "github.com/alexeymaximov/syspack"
+  version = "0.1.1"
