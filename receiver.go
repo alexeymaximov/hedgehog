@@ -1,4 +1,4 @@
-package hadgehog
+package hedgehog
 
 // TODO: Use direct mapping slice.
 
